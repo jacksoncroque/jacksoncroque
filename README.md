@@ -31,7 +31,7 @@ Este repositório é meu espaço para compartilhar estudos, projetos e eexperiê
 
 ## 📬 Contato
 
-📌 **GitHub:** [github.com/jacksoncroque](https://github.com/jacksoncroque)  
+📌 **Email:** jackson.crq@gmail.com  
 📌 **LinkedIn:** https://www.linkedin.com/in/jacksoncrq/  
 
 💬 Fique à vontade para entrar em contato, trocar ideias ou dar sugestões!
