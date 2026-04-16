@@ -16,9 +16,9 @@ Este repositório reúne meus projetos práticos enquanto evoluo na área de des
 
 ## 🚀 O que você encontrará aqui
 
-✅ Interfaces inspiradas em aplicações reais (UI clones)
-✅ Componentes reutilizáveis com React
-✅ Estilização com SCSS (Sass)
+✅ Interfaces inspiradas em aplicações reais (UI clones) \d
+✅ Componentes reutilizáveis com React \d
+✅ Estilização com SCSS (Sass) \d
 ✅ Layouts responsivos
 ✅ Integração com bibliotecas externas
 ✅ Boas práticas de estruturação de projetos
