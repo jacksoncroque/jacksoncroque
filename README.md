@@ -166,7 +166,7 @@ Também possuo alguns conhecimentos em back-end, com experiência em Python e SQ
 <br/>
 <br/>
 
-<h3 align="left">📬 Você pode se conectar comigo nestes luagares</h3>
+<h3 align="left">📬 Você pode se conectar comigo nestes lugares</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jackson.crq@gmail.com@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jacksoncrq)
